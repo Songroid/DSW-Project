@@ -1,0 +1,1103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayoutPreviewToolWindow">
+    <option name="state">
+      <GlobalState />
+    </option>
+  </component>
+  <component name="AndroidLayouts">
+    <shared>
+      <config>
+        <target>android-17</target>
+      </config>
+    </shared>
+    <layouts>
+      <layout url="file://$PROJECT_DIR$/res/layout/activity_main.xml">
+        <config>
+          <device>Nexus 4</device>
+          <theme>@style/AppTheme</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/res/layout/activity_splash.xml">
+        <config>
+          <device>Galaxy Nexus</device>
+          <theme>@style/AppTheme</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/res/layout/sms_listadapter.xml">
+        <config>
+          <device>Nexus 4</device>
+          <theme>@style/AppTheme</theme>
+        </config>
+      </layout>
+    </layouts>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="ERROR" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="87b244a2-bc7d-43af-a06a-1861d54e1eaf" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../IS2950_Independent_Study/cbtCode_twoscreens/CBTScreenshot/CBTScreenshot.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../IS2950_Independent_Study/cbtCode_twoscreens/CBTScreenshot/.idea/gradle.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Library/Preferences/AndroidStudioPreview/options/mavenVersion.xml" />
+    </list>
+    <ignored path="EBIZ_SecrueSMS_Android_workable.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="EBIZ_SecrueSMS_Android_workable" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Activity_Main.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/song/securesms/Activity_Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="143" column="13" selection-start="5293" selection-end="5293" vertical-scroll-proportion="0.0" vertical-offset="855" max-vertical-offset="11295">
+              <folding>
+                <element signature="docComment;class#Activity_Main#0" expanded="false" />
+                <element signature="e#2807#2954#0" expanded="false" />
+                <element signature="e#2947#2948#0" expanded="false" />
+                <element signature="method#onCreate#0;class#Activity_Main#0" expanded="false" />
+                <element signature="e#3956#4003#0" expanded="false" />
+                <element signature="method#onCreate#0;class#Activity_Main#0" expanded="false" />
+                <element signature="method#onCreateOptionsMenu#0;class#Activity_Main#0" expanded="false" />
+                <element signature="method#onOptionsItemSelected#0;class#Activity_Main#0" expanded="false" />
+                <element signature="method#onPrepareOptionsMenu#0;class#Activity_Main#0" expanded="false" />
+                <element signature="method#onKeyDown#0;class#Activity_Main#0" expanded="false" />
+                <element signature="method#onPostCreate#0;class#Activity_Main#0" expanded="false" />
+                <element signature="method#onConfigurationChanged#0;class#Activity_Main#0" expanded="false" />
+                <element signature="method#onBackPressed#0;class#Activity_Main#0" expanded="false" />
+                <element signature="method#onStart#0;class#Activity_Main#0" expanded="false" />
+                <element signature="method#onResume#0;class#Activity_Main#0" expanded="false" />
+                <element signature="method#onStop#0;class#Activity_Main#0" expanded="false" />
+                <element signature="method#onDestroy#0;class#Activity_Main#0" expanded="false" />
+                <element signature="method#handleVZWSMS#0;class#Activity_Main#0" expanded="false" />
+                <element signature="method#handleATTSMS#0;class#Activity_Main#0" expanded="false" />
+                <element signature="method#handleTMBSMS#0;class#Activity_Main#0" expanded="false" />
+                <element signature="method#createAES#0;class#Activity_Main#0" expanded="false" />
+                <element signature="e#10362#10406#0" expanded="false" />
+                <element signature="e#11077#11152#0" expanded="false" />
+                <element signature="method#msgDelete#0;class#Activity_Main#0" expanded="false" />
+                <element signature="e#12045#12096#0" expanded="false" />
+                <element signature="e#12792#12809#0" expanded="false" />
+                <element signature="method#getMessage#0;class#Activity_Main#0" expanded="false" />
+                <element signature="e#15111#15165#0" expanded="false" />
+                <element signature="e#16735#16786#0" expanded="false" />
+                <element signature="e#18219#18264#0" expanded="false" />
+                <element signature="e#19962#19998#0" expanded="false" />
+                <element signature="class#20604:21150" expanded="false" />
+                <element signature="method#compare#0;class#20604:21150" expanded="false" />
+                <element signature="e#21685#21719#0" expanded="false" />
+                <element signature="e#22759#22800#0" expanded="false" />
+                <element signature="e#24799#24830#0" expanded="false" />
+                <element signature="class#26016:26245" expanded="false" />
+                <element signature="method#compare#0;class#26016:26245" expanded="false" />
+                <element signature="method#generateKey#0;class#Activity_Main#0" expanded="false" />
+                <element signature="e#26589#26643#0" expanded="false" />
+                <element signature="method#createMainList#0;class#Activity_Main#0" expanded="false" />
+                <element signature="e#28777#28813#0" expanded="false" />
+                <element signature="e#32119#32192#0" expanded="false" />
+                <element signature="e#35083#35125#0" expanded="false" />
+                <element signature="method#createDrawer#0;class#Activity_Main#0" expanded="false" />
+                <element signature="e#37300#37366#0" expanded="false" />
+                <element signature="class#37460:37980" expanded="false" />
+                <element signature="method#onDrawerClosed#0;class#37460:37980" expanded="false" />
+                <element signature="method#onDrawerOpened#0;class#37460:37980" expanded="false" />
+                <element signature="method#updateUI#0;class#Activity_Main#0" expanded="false" />
+                <element signature="class#GmailNetworkRequest#0;class#Activity_Main#0" expanded="false" />
+                <element signature="method#GmailNetworkRequest#0;class#GmailNetworkRequest#0;class#Activity_Main#0" expanded="false" />
+                <element signature="method#onPreExecute#0;class#GmailNetworkRequest#0;class#Activity_Main#0" expanded="false" />
+                <element signature="method#doInBackground#0;class#GmailNetworkRequest#0;class#Activity_Main#0" expanded="false" />
+                <element signature="method#onPostExecute#0;class#GmailNetworkRequest#0;class#Activity_Main#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="38" selection-start="794" selection-end="794" vertical-scroll-proportion="0.3732504" vertical-offset="0" max-vertical-offset="1125">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="KEY_STORE_PATH" value="$PROJECT_DIR$/DSWkey.jks" />
+    <option name="KEY_ALIAS" value="DSW" />
+    <option name="REMEMBER_PASSWORDS" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="tasksExpandState">
+      <map>
+        <entry key="" value="true" />
+      </map>
+    </option>
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="EBIZ_SecureSMS_Android" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="Testcarriername" />
+                <option name="path" value="$PROJECT_DIR$/Testcarriername" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="EBIZ_SecureSMS_Android" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="1387230015000" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/res/values/styles.xml" />
+        <option value="$PROJECT_DIR$/res/layout/dialog_popup_ma.xml" />
+        <option value="$PROJECT_DIR$/res/values/colors.xml" />
+        <option value="$PROJECT_DIR$/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/src/com/song/securesms/SMSListAdapter.java" />
+        <option value="$PROJECT_DIR$/res/layout/sms_listadapter.xml" />
+        <option value="$PROJECT_DIR$/src/com/song/securesms/Dialog_PopupMAResponse.java" />
+        <option value="$PROJECT_DIR$/res/layout/ew_listadapter.xml" />
+        <option value="$PROJECT_DIR$/src/com/song/securesms/EWListAdapter.java" />
+        <option value="$PROJECT_DIR$/res/layout/dialog_popup_ew.xml" />
+        <option value="$PROJECT_DIR$/src/com/song/securesms/Activity_CreatePW.java" />
+        <option value="$PROJECT_DIR$/src/com/song/securesms/Activity_CheckPW.java" />
+        <option value="$PROJECT_DIR$/src/com/song/securesms/Activity_Tutorial.java" />
+        <option value="$PROJECT_DIR$/src/com/song/securesms/Activity_Tutorial_CheckPW.java" />
+        <option value="$PROJECT_DIR$/src/com/song/securesms/Dialog_AboutApp.java" />
+        <option value="$PROJECT_DIR$/src/com/song/securesms/Dialog_PopupEWResponse.java" />
+        <option value="$PROJECT_DIR$/src/com/song/securesms/DrawerData.java" />
+        <option value="$PROJECT_DIR$/src/com/song/securesms/DrawerListAdapter.java" />
+        <option value="$PROJECT_DIR$/src/com/song/securesms/EWData.java" />
+        <option value="$PROJECT_DIR$/src/com/song/securesms/HandleKey.java" />
+        <option value="$PROJECT_DIR$/src/com/song/securesms/Service_NotificationIcon.java" />
+        <option value="$PROJECT_DIR$/src/com/song/securesms/SMSData.java" />
+        <option value="$PROJECT_DIR$/src/com/song/securesms/VZWData.java" />
+        <option value="$PROJECT_DIR$/src/com/song/securesms/Activity_Splash.java" />
+        <option value="$PROJECT_DIR$/src/com/song/securesms/Activity_Main.java" />
+        <option value="$PROJECT_DIR$/AndroidManifest.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
+    <option name="width" value="1440" />
+    <option name="height" value="814" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Abstraction issues</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="1" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Android-PullToRefresh-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Android-PullToRefresh-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EBIZ_SecureSMS_Android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Android-PullToRefresh-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EBIZ_SecureSMS_Android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="song" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="securesms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Android-PullToRefresh-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EBIZ_SecureSMS_Android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gradle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GenerateAntBuildDialog.generateIdeaHomeProperty" value="false" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="ExportedApkPath" value="$PROJECT_DIR$/EBIZ_SecureSMS_Android.apk" />
+    <property name="GenerateAntBuildDialog.generateSingleFile" value="false" />
+    <property name="ExportedModule" value="EBIZ_SecureSMS_Android" />
+    <property name="GenerateAntBuildDialog.inclineRuntiemClasspath" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="ebiz_securesms_android" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="MyAvd0" />
+    <property name="OverrideImplement.overriding.sorted" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="options.lastSelected" value="project.propCompiler" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="42f775a95aca8f6b" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="AndroidRunProguardForReleaseBuild" value="false" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="options.searchVisible" value="true" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/res/layout" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/res/drawable" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android Application.EBIZ_SecureSMS_Android">
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="false" name="EBIZ_SecureSMS_Android" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="EBIZ_SecureSMS_Android" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="USB_DEVICE" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="true" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <RunnerSettings RunnerId="AndroidDebugRunner" />
+      <ConfigurationWrapper RunnerId="AndroidDebugRunner" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Android Application.EBIZ_SecureSMS_Android" />
+    </list>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SliceManager">
+    <option name="analysisUIOptions">
+      <AnalysisUIOptions />
+    </option>
+  </component>
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="87b244a2-bc7d-43af-a06a-1861d54e1eaf" name="Default" comment="" />
+      <created>1370382726125</created>
+      <updated>1370382726125</updated>
+      <workItem from="1370382731380" duration="6000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="22" width="1440" height="814" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.13600892" sideWeight="0.5" order="12" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24856322" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.03591954" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2497332" sideWeight="0.9256619" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23816356" sideWeight="0.8639911" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.11350574" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1954023" sideWeight="0.8788481" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32917705" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USERS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="74" selection-start="705" selection-end="705" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="1125" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="0" selection-start="369" selection-end="369" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="900" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/song/securesms/Activity_Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="131" column="85" selection-start="4741" selection-end="4757" vertical-scroll-proportion="0.0" vertical-offset="1965" max-vertical-offset="13035" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/song/securesms/Activity_Tutorial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="1" selection-start="814" selection-end="814" vertical-scroll-proportion="0.0" vertical-offset="390" max-vertical-offset="480" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/song/securesms/SMSListAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="13" selection-start="334" selection-end="334" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="1545" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/song/securesms/Dialog_PopupEWResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="223" column="52" selection-start="8869" selection-end="8885" vertical-scroll-proportion="0.0" vertical-offset="3345" max-vertical-offset="3510" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/dialog_popup_ew.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="182" max-vertical-offset="945" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/sms_listadapter.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="34" selection-start="989" selection-end="989" vertical-scroll-proportion="0.0" vertical-offset="405" max-vertical-offset="1755" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/song/securesms/Activity_Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="143" column="0" selection-start="5053" selection-end="5053" vertical-scroll-proportion="0.0" vertical-offset="1443" max-vertical-offset="13260" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="19" selection-start="1760" selection-end="1760" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1125" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/song/securesms/Activity_Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="515" column="64" selection-start="19869" selection-end="19869" vertical-scroll-proportion="0.0" vertical-offset="7725" max-vertical-offset="12390" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/song/securesms/Activity_CreatePW.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="125" column="36" selection-start="4538" selection-end="4538" vertical-scroll-proportion="0.0" vertical-offset="1875" max-vertical-offset="2955" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="900" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="19" selection-start="1760" selection-end="1760" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1125" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/song/securesms/Activity_Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="73" column="41" selection-start="2366" selection-end="2366" vertical-scroll-proportion="0.0" vertical-offset="1095" max-vertical-offset="13335" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/song/securesms/Activity_CreatePW.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="125" column="36" selection-start="4538" selection-end="4538" vertical-scroll-proportion="0.0" vertical-offset="1875" max-vertical-offset="2550" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="900" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/song/securesms/Dialog_PopupMAResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="13" selection-start="642" selection-end="642" vertical-scroll-proportion="0.0075075077" vertical-offset="55" max-vertical-offset="2520" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/menu/main.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="677" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/activity_tutorial.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2175" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/dialog_popup_ew.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.35897437" vertical-offset="182" max-vertical-offset="945" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/sms_listadapter.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="34" selection-start="989" selection-end="989" vertical-scroll-proportion="0.0" vertical-offset="405" max-vertical-offset="1755" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="0" selection-start="369" selection-end="369" vertical-scroll-proportion="0.035989717" vertical-offset="122" max-vertical-offset="900" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/menu/check_pw.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="714" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/song/securesms/Activity_Tutorial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="3" selection-start="264" selection-end="302" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/song/securesms/Dialog_AboutApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="0" selection-start="422" selection-end="422" vertical-scroll-proportion="0.25210086" vertical-offset="0" max-vertical-offset="714" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/song/securesms/DrawerListAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="28" selection-start="1469" selection-end="1469" vertical-scroll-proportion="0.71428573" vertical-offset="0" max-vertical-offset="735" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/song/securesms/DrawerData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="3" selection-start="36" selection-end="96" vertical-scroll-proportion="0.063025214" vertical-offset="0" max-vertical-offset="714" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/song/securesms/Dialog_PopupEWResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="73" column="19" selection-start="2767" selection-end="2767" vertical-scroll-proportion="-9.16" vertical-offset="551" max-vertical-offset="3150" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/song/securesms/JSSEProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="19" selection-start="1027" selection-end="1039" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/song/securesms/HandleKey.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="103" column="4" selection-start="3213" selection-end="3213" vertical-scroll-proportion="0.0" vertical-offset="2076" max-vertical-offset="2790" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/song/securesms/Service_NotificationIcon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="62" selection-start="689" selection-end="689" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="930" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/song/securesms/EWListAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="13" selection-start="451" selection-end="451" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="1185" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/song/securesms/SMSListAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="13" selection-start="334" selection-end="334" vertical-scroll-proportion="0.14705883" vertical-offset="0" max-vertical-offset="1425" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/song/securesms/EWData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="3" selection-start="36" selection-end="101" vertical-scroll-proportion="0.063025214" vertical-offset="0" max-vertical-offset="714" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/song/securesms/SMSData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="3" selection-start="144" selection-end="144" vertical-scroll-proportion="0.12605043" vertical-offset="0" max-vertical-offset="765" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/song/securesms/VZWKey.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="0" selection-start="332" selection-end="332" vertical-scroll-proportion="0.39915967" vertical-offset="0" max-vertical-offset="714" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/song/securesms/VZWData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="0" selection-start="117" selection-end="117" vertical-scroll-proportion="0.063025214" vertical-offset="45" max-vertical-offset="1065" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values/colors.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="17" selection-start="651" selection-end="651" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="675">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/song/securesms/Activity_Splash.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="69" column="95" selection-start="2632" selection-end="2652" vertical-scroll-proportion="0.66086954" vertical-offset="505" max-vertical-offset="1080" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/song/securesms/Activity_Tutorial_CheckPW.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="41" selection-start="255" selection-end="255" vertical-scroll-proportion="0.14423077" vertical-offset="0" max-vertical-offset="624" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/activity_check_pw.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="33" selection-start="1755" selection-end="1773" vertical-scroll-proportion="-11.666667" vertical-offset="375" max-vertical-offset="1170" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/activity_registry.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="32" selection-start="792" selection-end="798" vertical-scroll-proportion="-8.888889" vertical-offset="15" max-vertical-offset="900" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/activity_main.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="1440">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/activity_splash.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="59" selection-start="326" selection-end="326" vertical-scroll-proportion="0.12562814" vertical-offset="0" max-vertical-offset="597" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/song/securesms/Activity_CreatePW.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="55" column="19" selection-start="1948" selection-end="1948" vertical-scroll-proportion="0.6287425" vertical-offset="0" max-vertical-offset="2415" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/song/securesms/GMailSender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="45" column="63" selection-start="1303" selection-end="1314" vertical-scroll-proportion="-1.8293413" vertical-offset="1447" max-vertical-offset="2115" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/song/securesms/Activity_CheckPW.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="89" column="54" selection-start="3178" selection-end="3178" vertical-scroll-proportion="1.2363919" vertical-offset="0" max-vertical-offset="3435">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/song/securesms/Activity_Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="143" column="13" selection-start="5293" selection-end="5293" vertical-scroll-proportion="0.0" vertical-offset="855" max-vertical-offset="11295">
+          <folding>
+            <element signature="docComment;class#Activity_Main#0" expanded="false" />
+            <element signature="e#2807#2954#0" expanded="false" />
+            <element signature="e#2947#2948#0" expanded="false" />
+            <element signature="method#onCreate#0;class#Activity_Main#0" expanded="false" />
+            <element signature="e#3956#4003#0" expanded="false" />
+            <element signature="method#onCreate#0;class#Activity_Main#0" expanded="false" />
+            <element signature="method#onCreateOptionsMenu#0;class#Activity_Main#0" expanded="false" />
+            <element signature="method#onOptionsItemSelected#0;class#Activity_Main#0" expanded="false" />
+            <element signature="method#onPrepareOptionsMenu#0;class#Activity_Main#0" expanded="false" />
+            <element signature="method#onKeyDown#0;class#Activity_Main#0" expanded="false" />
+            <element signature="method#onPostCreate#0;class#Activity_Main#0" expanded="false" />
+            <element signature="method#onConfigurationChanged#0;class#Activity_Main#0" expanded="false" />
+            <element signature="method#onBackPressed#0;class#Activity_Main#0" expanded="false" />
+            <element signature="method#onStart#0;class#Activity_Main#0" expanded="false" />
+            <element signature="method#onResume#0;class#Activity_Main#0" expanded="false" />
+            <element signature="method#onStop#0;class#Activity_Main#0" expanded="false" />
+            <element signature="method#onDestroy#0;class#Activity_Main#0" expanded="false" />
+            <element signature="method#handleVZWSMS#0;class#Activity_Main#0" expanded="false" />
+            <element signature="method#handleATTSMS#0;class#Activity_Main#0" expanded="false" />
+            <element signature="method#handleTMBSMS#0;class#Activity_Main#0" expanded="false" />
+            <element signature="method#createAES#0;class#Activity_Main#0" expanded="false" />
+            <element signature="e#10362#10406#0" expanded="false" />
+            <element signature="e#11077#11152#0" expanded="false" />
+            <element signature="method#msgDelete#0;class#Activity_Main#0" expanded="false" />
+            <element signature="e#12045#12096#0" expanded="false" />
+            <element signature="e#12792#12809#0" expanded="false" />
+            <element signature="method#getMessage#0;class#Activity_Main#0" expanded="false" />
+            <element signature="e#15111#15165#0" expanded="false" />
+            <element signature="e#16735#16786#0" expanded="false" />
+            <element signature="e#18219#18264#0" expanded="false" />
+            <element signature="e#19962#19998#0" expanded="false" />
+            <element signature="class#20604:21150" expanded="false" />
+            <element signature="method#compare#0;class#20604:21150" expanded="false" />
+            <element signature="e#21685#21719#0" expanded="false" />
+            <element signature="e#22759#22800#0" expanded="false" />
+            <element signature="e#24799#24830#0" expanded="false" />
+            <element signature="class#26016:26245" expanded="false" />
+            <element signature="method#compare#0;class#26016:26245" expanded="false" />
+            <element signature="method#generateKey#0;class#Activity_Main#0" expanded="false" />
+            <element signature="e#26589#26643#0" expanded="false" />
+            <element signature="method#createMainList#0;class#Activity_Main#0" expanded="false" />
+            <element signature="e#28777#28813#0" expanded="false" />
+            <element signature="e#32119#32192#0" expanded="false" />
+            <element signature="e#35083#35125#0" expanded="false" />
+            <element signature="method#createDrawer#0;class#Activity_Main#0" expanded="false" />
+            <element signature="e#37300#37366#0" expanded="false" />
+            <element signature="class#37460:37980" expanded="false" />
+            <element signature="method#onDrawerClosed#0;class#37460:37980" expanded="false" />
+            <element signature="method#onDrawerOpened#0;class#37460:37980" expanded="false" />
+            <element signature="method#updateUI#0;class#Activity_Main#0" expanded="false" />
+            <element signature="class#GmailNetworkRequest#0;class#Activity_Main#0" expanded="false" />
+            <element signature="method#GmailNetworkRequest#0;class#GmailNetworkRequest#0;class#Activity_Main#0" expanded="false" />
+            <element signature="method#onPreExecute#0;class#GmailNetworkRequest#0;class#Activity_Main#0" expanded="false" />
+            <element signature="method#doInBackground#0;class#GmailNetworkRequest#0;class#Activity_Main#0" expanded="false" />
+            <element signature="method#onPostExecute#0;class#GmailNetworkRequest#0;class#Activity_Main#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="38" selection-start="794" selection-end="794" vertical-scroll-proportion="0.3732504" vertical-offset="0" max-vertical-offset="1125">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Android</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>EBIZ_SecureSMS_Android</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>libs</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+

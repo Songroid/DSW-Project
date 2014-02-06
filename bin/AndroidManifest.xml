@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.song.securesms"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-permission android:name="android.permission.READ_SMS" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <uses-permission android:name="android.permission.WRITE_SMS" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="17" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".Activity_Splash"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Activity_Main"
+            android:label="@string/app_name" >
+                <intent-filter>
+                    <action android:name="android.intent.action.MAIN" />
+                </intent-filter>
+        </activity>
+        <activity
+            android:name=".Activity_CreatePW"
+            android:windowSoftInputMode="adjustResize"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name=".Activity_CheckPW"
+            android:windowSoftInputMode="adjustResize"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:theme="@style/CustomDialog"
+            android:name=".Dialog_PopupMAResponse"
+            android:label="@string/dialogTitle"/>
+        <activity
+            android:theme="@style/CustomDialog"
+            android:name=".Dialog_PopupEWResponse"
+            android:label="@string/dialogTitle"/>
+        <activity
+            android:theme="@style/CustomDialog"
+            android:name=".Dialog_AboutApp"/>
+        <activity
+            android:theme="@style/Theme.Transparent"
+            android:name=".Activity_Tutorial"/>
+        <activity
+            android:theme="@style/Theme.Transparent"
+            android:name=".Activity_Tutorial_CheckPW"/>
+
+        <service android:name=".Service_NotificationIcon"/>
+    </application>
+
+</manifest>

@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="dexedLibs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/additionnal-7255aadc5f7a198e97061328ea7a9cac.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/additionnal-eeb4518524ee41bfc0c200fdf32022c8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/activation-ac8b07f6d374842becbf4c8f35be9171.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/commons-codec-1.7-7990b0b2e5004e2d3cda7ff4a598b50d.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/android-support-v4-1ab38658a55a95e5354ec9933b829fe8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/android-support-v4-14fdab7f630b47d7e030c0bed6e12e4a.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/activation-2059f702f9b7df4a0d0087a8781f1a66.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/mail-e7cff16da12e1f8d90ef7e8be0cf7d45.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/commons-codec-1.7-29f2621cf46ed1451d29c1a0aa45a9c8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/mail-fe2b70df094bade3816d964307c1f89d.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

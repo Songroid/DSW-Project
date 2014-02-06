@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <item name="android:actionBarStyle">@style/CustomActionBar</item>
+    </style>
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="AppBaseTheme">
+    </style>
+
+    <style name="LoginFormContainer">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:padding">16dp</item>
+    </style>
+
+    <style name="TitleBackground" parent="android:Widget.TextView">
+        <item name="android:shadowColor">@color/text_shadow</item>
+        <item name="android:shadowDx">1</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">2</item>
+        <item name="android:textSize">20dp</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:background">@drawable/ab_background_textured_actionbar</item>
+    </style>
+
+    <style name="CustomDialog" parent="android:Theme.Holo.Light.Dialog">
+        <item name="android:windowTitleStyle">@style/TitleBackground</item>
+    </style>
+
+    <style name="CustomEditText" parent="android:Widget.DeviceDefault.Light.EditText">
+        <item name="android:background">@drawable/edittext_holo_light</item>
+    </style>
+
+    <style name="CustomButton" parent="android:Widget.DeviceDefault.Light.Button">
+        <item name="android:background">@drawable/btn_holo_light</item>
+    </style>
+
+    <style name="MyTheme.ActionBar.TitleTextStyle" parent="@android:style/TextAppearance.Holo.Widget.ActionBar.Title">
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+
+    <style name="Theme.Transparent" parent="android:Theme.Holo.NoActionBar">
+        <item name="android:windowBackground">@color/transparent</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Translucent</item>
+    </style>
+
+</resources>

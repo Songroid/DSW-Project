@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DSW Reminder</string>
+    <string name="menu_get_msg">Get message from inbox</string>
+    <string name="menu_tutorial">Tutorial</string>
+    <string name="action_settings">Settings</string>
+    <string name="splash_logo">DSW</string>
+    <string name="button_subpw">Finish</string>
+    <string name="create_pw">Create your password:</string>
+    <string name="check_pw">Enter your password:</string>
+    <string name="hint">Touch here</string>
+    <string name="smsIndication">Touch to respond</string>
+    <string name="replySMSButton">Confirm</string>
+    <string name="replyNOButton">Cancel</string>
+    <string name="radioYes">Yes</string>
+    <string name="radioNo">No</string>
+    <string name="replyEWYes">Send</string>
+    <string name="dialogTitle">Response</string>
+    <string name="empty_list">Touch the top right icon to refresh.\nYou have no DSW messages now.</string>
+    <string name="forgot">Forgot your password?</string>
+    <string name="drawer_open">Open drawer view</string>
+    <string name="drawer_close">Close drawer view</string>
+    <string name="checkbox">Show plain text</string>
+    <string name="aboutapp_button">OK</string>
+    <string name="aboutapp_content">Version: 0.0.1\n\nCopyright © DSW Project\n\nAll Rights Reserved.</string>
+    <string name="drawer_title_open">Menu options</string>
+    <string name="tutorial_toggle">Touch for menu</string>
+    <string name="tutorial_refresh">Refresh message list</string>
+    <string name="tutorial_hold">Touch and hold to delete</string>
+    <string name="tutorial_down">Pull down to refresh</string>
+    <string name="tutorial_swipe">Swipe for menu</string>
+    <string name="tutorial_menu">Press menu key for menu</string>
+    <string name="tutorial_back">Double press back key to exit</string>
+    <string name="tutorial_checkPW_edittext">Input password here</string>
+    <string name="tutorial_checkPW_forgot">Touch and hold here if you forgot password</string>
+    <string name="tutorial_checkPW_finish">Touch to continue</string>
+    <string name="tutorial_checkPW_viewPW">View password</string>
+
+</resources>

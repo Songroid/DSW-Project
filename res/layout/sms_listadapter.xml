@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="horizontal" >
+
+    <View
+        android:id="@+id/smsColor"
+        android:layout_width="7dp"
+        android:layout_height="fill_parent" />
+
+    <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:background="#ffffff"
+            android:orientation="vertical" >
+
+        <LinearLayout
+                android:layout_marginTop="3dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_height="wrap_content"
+                android:layout_width="fill_parent"
+                android:orientation="horizontal" >
+
+            <TextView
+                    android:id="@+id/smsNumberText"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="5"
+                    android:textSize="19sp"
+                    android:textStyle="bold" />
+
+            <TextView
+                    android:id="@+id/smsTimeText"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:textSize="13sp" />
+
+        </LinearLayout>
+
+        <RelativeLayout
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/smsBodyText"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textSize="17sp" />
+
+            <ImageView
+                android:id="@+id/selectTick"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/btn_check_on_holo_dark"
+                android:layout_alignParentRight="true"
+                android:visibility="gone" />
+
+        </RelativeLayout>
+
+        <TextView
+                android:layout_marginLeft="5dp"
+                android:id="@+id/smsIndication"
+                android:text="@string/smsIndication"
+                android:layout_height="wrap_content"
+                android:layout_width="fill_parent"
+                android:textSize="17sp" />
+
+        <TextView
+                android:id="@+id/smsID"
+                android:visibility="gone"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content" />
+
+        <TextView
+                android:id="@+id/smsType"
+                android:visibility="gone"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content" />
+
+        <TextView
+                android:id="@+id/smsNumber"
+                android:visibility="gone"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content" />
+
+        <TextView
+                android:id="@+id/smsUniqueID"
+                android:visibility="gone"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content" />
+
+        <LinearLayout
+                android:paddingTop="3dp"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content">
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="2dp"
+                android:background="#939393" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

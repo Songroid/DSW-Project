@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+          android:id="@+id/rl_tutorial_checkpw"
+          android:orientation="vertical"
+          android:layout_width="match_parent"
+          android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/tutorial_checkPW_edittext"
+        android:text="@string/tutorial_checkPW_edittext"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true" />
+
+    <TextView
+        android:id="@+id/reference"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/tutorial_checkPW_edittext" />
+
+    <ImageView
+        android:id="@+id/viewPW"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_toLeftOf="@id/reference"
+        android:layout_below="@id/tutorial_checkPW_edittext"
+        android:layout_centerHorizontal="true"
+        android:layout_marginRight="70dp"
+        android:src="@drawable/tutorial_touch" />
+
+    <TextView
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_below="@id/viewPW"
+        android:layout_marginRight="40dp"
+        android:text="@string/tutorial_checkPW_viewPW"
+        android:layout_toLeftOf="@id/reference" />
+
+    <ImageView
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_above="@id/tutorial_checkPW_edittext"
+        android:src="@drawable/tutorial_touch"
+        android:layout_centerHorizontal="true" />
+
+    <ImageView
+        android:id="@+id/tutorial_checkPW_finish"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_below="@id/tutorial_checkPW_edittext"
+        android:layout_marginTop="60dp"
+        android:src="@drawable/tutorial_touch"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:text="@string/tutorial_checkPW_finish"
+        android:layout_below="@id/tutorial_checkPW_finish"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true" />
+
+    <ImageView
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:src="@drawable/tutorial_divider"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="80dp"
+        android:layout_marginBottom="20dp" />
+
+    <ImageView
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:src="@drawable/tutorial_divider"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="20dp"
+        android:layout_marginRight="80dp" />
+
+    <TextView
+        android:text="@string/tutorial_checkPW_forgot"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"/>
+
+</RelativeLayout>

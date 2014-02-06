@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/main_get_msg"
+        android:icon="@android:drawable/ic_popup_sync"
+        android:showAsAction="always"
+        android:title="@string/menu_get_msg" />
+
+</menu>

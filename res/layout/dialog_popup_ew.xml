@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/ewLL"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:showDividers="middle"
+        android:divider="?android:dividerHorizontal"
+        android:orientation="vertical" >
+
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="horizontal" >
+
+        <ListView
+                android:id="@+id/EWList"
+                android:divider="?android:dividerHorizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+        <View
+                android:layout_width="fill_parent"
+                android:layout_height="1dp"
+                android:background="#bdc3c7" />
+
+    </LinearLayout>
+
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:showDividers="middle"
+            android:divider="?android:dividerVertical"
+            android:dividerPadding="8dp"
+            android:orientation="horizontal"
+            android:layout_weight="0" >
+
+        <Button
+                android:id="@+id/replyEWNO"
+                android:background="?android:attr/selectableItemBackground"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/replyNOButton" />
+
+        <Button
+                style="@style/CustomButton"
+                android:textColor="#FFFFFF"
+                android:id="@+id/replyEWYes"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/replyEWYes" />
+
+    </LinearLayout>
+
+
+</LinearLayout>
